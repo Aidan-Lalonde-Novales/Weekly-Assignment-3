@@ -1,0 +1,103 @@
+/* Alan, Please add Details. */
+
+.body {
+  background-image: linear-gradient(to right, lightcyan , azure);
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 20px;
+}
+
+.title {
+  text-align: center;
+  color: #2e3f42;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 60px;
+}
+
+.gordonpicture {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  border-style: outset;
+  border-color: #788587;
+  border-width: 10px;
+}
+
+.content {
+  background-color: #fcffff;
+  border-style: double;
+  border-width: 10px;
+  border-color: black;
+}
+
+.divider {
+  color: black;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.mainquote {
+  text-align: center;
+  color: #2e3f42;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+}
+
+.textleft {
+  margin-left: 100px;
+  margin-right: 10px;
+  color: #2e3f42;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  overflow: auto;
+}
+
+.textright {
+  margin-left: 10px;
+  margin-right: 100px;
+  color: #2e3f42;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  overflow: auto;
+}
+
+.popout {
+  margin: 3px;
+  color: black;
+  font-size: 22px;
+}
+
+.imageright {
+  float: right;
+  border-style: groove;
+  border-color: black;
+  border-width: 5px;
+  margin-right: 100px;
+  margin-left: 5px;
+}
+
+.imageleft {
+  float: left;
+  border-style: groove;
+  border-color: black;
+  border-width: 5px;
+  margin-right: 5px;
+  margin-left: 100px;
+}
+
+.paraoverflow {
+  overflow: auto;
+}
+
+/* Jonny the plugs import */
+
+.rainbow {
+  background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.19, #f2f), color-stop(0.22, #22f), color-stop(0.3, #2ff), color-stop(0.4, #2f2),color-stop(0.5, #2f2), color-stop(0.6, #ff2), color-stop(0.7, #f22) );
+  background-image: gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.19, #f2f), color-stop(0.22, #22f), color-stop(0.3, #2ff), color-stop(0.4, #2f2),color-stop(0.5, #2f2), color-stop(0.6, #ff2), color-stop(0.7, #f22) );
+  color:transparent;
+  font-size: 80px;
+  -webkit-background-clip: text;
+  background-clip: text;
+}
