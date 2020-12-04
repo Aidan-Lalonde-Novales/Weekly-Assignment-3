@@ -1,7 +1,7 @@
-/* Alan, Please add Details. */
+/* all of aidans styling stuff */
 
 .body {
-  background-image: linear-gradient(to right, lightcyan , azure);
+  background-image: linear-gradient(to right, lightcyan, azure);
   margin-left: 150px;
   margin-right: 150px;
   margin-top: 20px;
@@ -89,15 +89,4 @@
 
 .paraoverflow {
   overflow: auto;
-}
-
-/* Jonny the plugs import */
-
-.rainbow {
-  background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.19, #f2f), color-stop(0.22, #22f), color-stop(0.3, #2ff), color-stop(0.4, #2f2),color-stop(0.5, #2f2), color-stop(0.6, #ff2), color-stop(0.7, #f22) );
-  background-image: gradient( linear, left top, right top, color-stop(0, #f22), color-stop(0.19, #f2f), color-stop(0.22, #22f), color-stop(0.3, #2ff), color-stop(0.4, #2f2),color-stop(0.5, #2f2), color-stop(0.6, #ff2), color-stop(0.7, #f22) );
-  color:transparent;
-  font-size: 80px;
-  -webkit-background-clip: text;
-  background-clip: text;
 }
