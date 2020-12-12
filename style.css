@@ -87,6 +87,13 @@
   margin-left: 100px;
 }
 
+.imagegallery {
+  border-style: groove;
+  border-color: black;
+  border-width: 3px;
+  margin: 10px;
+}
+
 .paraoverflow {
   overflow: auto;
 }
